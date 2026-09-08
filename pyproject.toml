@@ -1,0 +1,8 @@
+[project]
+name = "sports-science-llm-bench"
+version = "0.1.0"
+description = "MSc-level sports science and sports data science knowledge benchmark for local LLMs"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.30",
+]
