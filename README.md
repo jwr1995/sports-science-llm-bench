@@ -16,7 +16,7 @@ critical thinking, no tools, single-turn questions with rubric-based
 grading.
 
 It's a companion to, but fully independent of, a private repo
-(`coachllms`) that benchmarks tool-calling against one athlete's personal
+(`coachllm`) that benchmarks tool-calling against one athlete's personal
 training data. This repo is deliberately self-contained — no dependency on
 that repo or any private data — so it's safe to publish on GitHub.
 
